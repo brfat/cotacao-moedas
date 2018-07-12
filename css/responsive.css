@@ -1,0 +1,34 @@
+
+@media (max-width: 1024px) {
+    .box {
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    h2.title-menu {
+        font-size: 21px;
+        padding-left: 10px;
+        padding-right: 10px;
+        text-align: center;
+    }
+
+    img.investimento {
+        display: none;
+    }
+}
+
+
+@media (max-width: 480px) {
+    .botao {
+        bottom: 0;
+        position: fixed;
+        width: 93%;
+    }
+
+    a.submit-ajax {
+        width: 100%;
+    }
+
+
+}
